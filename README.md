@@ -43,12 +43,6 @@
 <code><img height="20" src="./images/of7.png"></code>
 
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ekilito&repo=myNotes)](https://github.com/ekilito/myNotes)
-<br><br><br>
-
-
 # 🙋 Hello
 
 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
