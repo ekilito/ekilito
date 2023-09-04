@@ -36,6 +36,17 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ekilito&repo=myNotes)](https://github.com/ekilito/myNotes)
 <br><br><br>
 
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.wudl.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  </a>
+</h1>
+
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<br>
+
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=ekilito&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
