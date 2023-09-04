@@ -4,6 +4,17 @@
 
 热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://blog.wudl.cn/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
+  </a>
+</h1>
+
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
+<br>
+
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
@@ -36,16 +47,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ekilito&repo=myNotes)](https://github.com/ekilito/myNotes)
 <br><br><br>
 
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://blog.wudl.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
-  </a>
-</h1>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
-<br>
 
 ### Github 活跃度
 
