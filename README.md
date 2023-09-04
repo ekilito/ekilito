@@ -9,7 +9,7 @@
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https:blog.wudl.cn"><code><img height="20" width="57" src="./images/blog.png"></code></a>：个人博客，记录学习经历！
+-   <a href="https://blog.wudl.cn"><code><img height="20" width="57" src="./images/blog.png"></code></a>：个人博客，记录学习经历！
 -   <a href="https://space.bilibili.com/194984444"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：欢迎访问我的b站！
 -   <a href="https://wudl.cn"><code><img height="19" width="43" src="./images/index.png"></code></a>：首页！
 
@@ -25,17 +25,15 @@
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
-<code><img height="20" src="./images/h5.png"></code>
+<a href="https://element-plus.gitee.io/zh-CN/guide/design.html"><code><img height="20" src="./images/element plus.png"></code></a>
 <code><img height="20" src="./images/ps.png"></code>
 <code><img height="20" src="./images/4e9.jpg"></code>
-<code><img height="20" src="./images/ccdd.webp"></code>
-<code><img height="20" src="./images/js.png"></code>
 <code><img height="20" src="./images/of7.png"></code>
-<code><img height="20" src="./images/wc3.png"></code>
+
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ekilito&repo=mp4To4K-rust)](https://github.com/Minori-ty/mp4To4K-rust)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ekilito&repo=myNotes)](https://github.com/ekilito/myNotes)
 <br><br><br>
 
 ### Github 活跃度
