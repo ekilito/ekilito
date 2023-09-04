@@ -1,9 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-
-## 前端工程师—kilito
-
-热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
-
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://blog.wudl.cn/">
@@ -14,6 +8,13 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 <br>
+
+<img align="right" src="https://count.getloli.com/get/@:ekilito?theme=rule34">
+
+## 前端工程师—kilito
+
+热爱前端、热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+
 
 ### **社交主页：**
 
